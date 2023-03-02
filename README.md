@@ -1,1 +1,1 @@
-# Tharanya P
+#Mini Project
